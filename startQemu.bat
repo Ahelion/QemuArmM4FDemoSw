@@ -1,0 +1,1 @@
+qemu-system-arm -M lm3s811evb -cpu cortex-m4 -m 8K -nographic -kernel build\notmain.bin
